@@ -65,12 +65,5 @@ The project focuses on:
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).  
-
----
-
-## 🙌 Acknowledgements
-- Developed as part of **Digital Electronics course project**.  
-- Thanks to instructors and teammates for valuable feedback and collaboration.  
-
----
+This project is for educational purposes under NMJ42303 - Real Time System coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated.
